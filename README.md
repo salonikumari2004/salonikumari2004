@@ -1,130 +1,284 @@
-<h1 align="center">Hi 👋, I'm Saloni Kumari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<!-- =========================================================
+     SALONI KUMARI — GITHUB PROFILE README
+     Premium terminal / engineering portfolio style
+     ========================================================= -->
 
 <p align="center">
-  Passionate Software Developer with strong problem-solving skills and hands-on experience in building scalable web applications using modern technologies.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Saloni Kumari — Software Developer, AI/ML Explorer and DSA Enthusiast" width="100%">
+  </picture>
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Saloni Kumari</h1>
 
-## 🚀 About Me
+<p align="center">
+  <strong>Software Developer • AI/ML Explorer • DSA Enthusiast • Electronics & Instrumentation @ NIT Agartala</strong>
+</p>
 
-- 💻 Full Stack Developer specializing in MERN Stack
-- 🏆 Solved 300+ DSA problems on LeetCode
-- 🌱 Currently exploring Backend Development and System Design
-- 🚀 Passionate about building impactful software products
-- 📈 Consistently improving problem-solving and development skills
-- 🎯 Aspiring Software Development Engineer (SDE)
+<p align="center">
+  <a href="https://github.com/salonikumari2004">
+    <img src="https://img.shields.io/badge/GitHub-salonikumari2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/codewithsaloni">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
----
+~/profile $ whoami
 
-## 🛠️ Tech Stack
+I'm a 2nd-year B.Tech student at NIT Agartala, pursuing Electronics & Instrumentation Engineering and building my software-development journey alongside my core engineering studies.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I enjoy turning ideas into practical projects, strengthening my problem-solving skills through DSA, and exploring AI/ML, web development, data tools, and developer-focused applications.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+┌──────────────────────────────────────────────────────────────┐
+│  PROFILE.STATUS                                               │
+├──────────────────────────────────────────────────────────────┤
+│  🎓 Education      → B.Tech | NIT Agartala                  │
+│  💻 Focus           → Software Development + DSA             │
+│  🤖 Exploring       → AI / ML                                 │
+│  🌐 Development     → Frontend + Backend fundamentals        │
+│  📊 Data             → Python / SQL / Analytics               │
+│  🧠 Problem Solving → LeetCode / Competitive Programming     │
+│  🚀 Goal             → Build real-world, resume-ready tools  │
+└──────────────────────────────────────────────────────────────┘
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+> current_focus.exe
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🧠 Strengthening Data Structures & Algorithms with C++
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🤖 Learning AI/ML deeply enough to build meaningful projects
 
----
+🌐 Improving full-stack development and backend fundamentals
 
-## 🚀 Featured Projects
+📊 Working with Python, SQL and data-analysis tools
 
-### 🍔 Food Delivery Application
-A full-stack food ordering platform enabling users to browse menus, manage carts, and place orders through an intuitive user experience.
+🛠️ Building practical projects instead of only tutorial projects
 
-🔗 Repository:
-https://github.com/salonikumari2004/Food-Delivery-project
+📈 Continuously improving my GitHub, problem-solving and engineering portfolio
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+// Tech Stack
 
----
+💻 Languages
 
-### 📊 DSA Progress Tracker
-A productivity platform designed to track coding progress, monitor solved problems, and analyze topic-wise performance.
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-🔗 Repository:
-https://github.com/salonikumari2004/DSA-Tracker
+🌐 Web Development
 
-**Features**
-- Progress Analytics
-- Topic-wise Tracking
-- Performance Dashboard
-- Goal Monitoring
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
----
+🤖 AI / ML & Computer Vision
 
-### 📄 Resume Analyzer
-A web platform that analyzes resumes and provides structured insights to improve profile quality.
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
 
-**Features**
-- Resume Analysis
-- Skill Identification
-- ATS-Oriented Suggestions
-- Performance Insights
+📊 Data & Tools
 
----
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-### 🎵 Spotify Clone
-A responsive music streaming UI inspired by Spotify.
+// Featured Projects
 
-**Features**
-- Modern UI
-- Responsive Design
-- Playlist Interface
-- Music Controls
+🧠 DSA Progress Tracker
 
----
+A web-based tracker for organizing DSA practice and monitoring progress.
 
-## 📚 Data Structures & Algorithms
+Highlights
 
-- Solved 300+ coding problems
-- Strong understanding of:
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Trees
-  - Graphs
-  - Dynamic Programming
-  - Greedy Algorithms
-  - Binary Search
-  - Recursion & Backtracking
+Topic-wise progress tracking
 
----
+Difficulty-based organization
 
-## 📊 GitHub Statistics
+Problem tracking
 
-![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=salonikumari2004&show_icons=true)
+Clean and interactive frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salonikumari2004&layout=compact)
+Stack: HTML CSS JavaScript
 
----
+🔗 Repository: DSA-Tracker
 
-## 🔥 GitHub Streak
+🤖 Smart Attendance System
 
-![GitHub Streak](https://streak-stats.demolab.com?user=salonikumari2004)
+An AI-oriented attendance project exploring computer vision and data structures for practical campus automation.
 
----
+Planned / explored components
 
-## 🌐 Connect With Me
+Face recognition
 
-- GitHub: https://github.com/salonikumari2004
-- LinkedIn: https://linkedin.com/in/codewithsaloni
+OpenCV-based camera processing
 
----
+KD-tree based searching
 
-⭐ Open to Software Development, Full Stack Development, and Internship Opportunities.
+Heap-based defaulter identification
+
+Sliding-window attendance trends
+
+Graph-based analysis
+
+Web application interface
+
+Stack: Python OpenCV AI/ML SQL Web Development
+
+📄 AI Resume / Resume Analyzer
+
+A project direction focused on analyzing resumes and extracting useful profile information for improvement.
+
+Focus
+
+Resume analysis
+
+Skill identification
+
+ATS-oriented feedback
+
+Structured profile insights
+
+Stack: Python JavaScript AI/ML
+
+🎵 Spotify UI Clone
+
+A responsive frontend project inspired by modern music-streaming interfaces.
+
+Focus
+
+Responsive UI
+
+Component-based interface design
+
+Playlist-style layouts
+
+Frontend interaction
+
+Stack: HTML CSS JavaScript
+
+// Problem Solving
+
+DSA JOURNEY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Arrays              ████████████████████
+Strings              ████████████████████
+Hashing / Maps       ███████████████████
+Binary Search        █████████████████
+Recursion            ███████████████
+Linked List          ███████████████
+Stack / Queue        ███████████████
+Greedy               ███████████████
+Dynamic Programming  █████████████████
+Math Basics          ███████████████
+
+Practice → Learn → Implement → Debug → Repeat
+
+I regularly practice coding problems and focus on understanding why a solution works, not just memorizing the code.
+
+🔗 LeetCode: codewithsaloni2004
+
+// What I'm Learning
+
+Area
+
+Current Direction
+
+🧠 DSA
+
+Interview problem solving + competitive programming
+
+🤖 AI/ML
+
+Machine learning, computer vision and project building
+
+🌐 Web
+
+Frontend + backend fundamentals
+
+🗄️ Databases
+
+SQL + MongoDB
+
+📊 Data
+
+NumPy, Pandas, Matplotlib, Power BI
+
+🛠️ Engineering
+
+Git, GitHub, APIs and project architecture
+
+// GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salonikumari2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonikumari2004&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salonikumari2004&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+// Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salonikumari2004&theme=tokyonight" width="95%" alt="GitHub Contribution Summary">
+</p>
+
+// Open Source & Community
+
+🌱 Exploring open-source contribution opportunities
+
+💻 Active around development and technical communities
+
+🧩 Interested in collaborative software projects
+
+🚀 Always looking for opportunities to learn, build and contribute
+
+// Beyond Code
+
+📚 Reading books
+🎤 Singing / creative activities
+🎨 Exploring better UI and product experiences
+💡 Learning new technologies by building
+
+~/profile $ connect
+
+<p align="center">
+  <a href="https://github.com/salonikumari2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/codewithsaloni">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/codewithsaloni2004/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building skills. Solving problems. Shipping projects. 🚀</i>
+</p>
+
+<p align="center">
+  <sub>Designed as a premium terminal-style developer profile.</sub>
+</p>
